@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 6d455bd7285ec45fda0269574a4e29e9
+timeCreated: 1509556351
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bush:pCube36
+    100002: Bush:pCube37
+    100004: Bush:transform1
+    100006: Bush:transform2
+    100008: Bush:transform3
+    100010: Bush:transform4
+    100012: curve1
+    100014: pCube36
+    100016: pCube37
+    100018: pCube38
+    100020: pCube39
+    100022: pCube40
+    100024: pCube41
+    100026: pCube42
+    100028: pCube43
+    100030: pCube44
+    100032: pCube45
+    100034: pCube46
+    100036: pCube47
+    100038: pCube48
+    100040: pCylinder1
+    100042: transform1
+    100044: transform10
+    100046: transform2
+    100048: transform3
+    100050: transform4
+    100052: transform5
+    100054: transform6
+    100056: transform7
+    100058: transform8
+    100060: transform9
+    100062: //RootNode
+    100064: Grassy_Terrain
+    100066: Palm_Tree
+    400000: Bush:pCube36
+    400002: Bush:pCube37
+    400004: Bush:transform1
+    400006: Bush:transform2
+    400008: Bush:transform3
+    400010: Bush:transform4
+    400012: curve1
+    400014: pCube36
+    400016: pCube37
+    400018: pCube38
+    400020: pCube39
+    400022: pCube40
+    400024: pCube41
+    400026: pCube42
+    400028: pCube43
+    400030: pCube44
+    400032: pCube45
+    400034: pCube46
+    400036: pCube47
+    400038: pCube48
+    400040: pCylinder1
+    400042: transform1
+    400044: transform10
+    400046: transform2
+    400048: transform3
+    400050: transform4
+    400052: transform5
+    400054: transform6
+    400056: transform7
+    400058: transform8
+    400060: transform9
+    400062: //RootNode
+    400064: Grassy_Terrain
+    400066: Palm_Tree
+    2300000: pCube48
+    2300002: pCylinder1
+    2300004: Grassy_Terrain
+    2300006: Palm_Tree
+    3300000: pCube48
+    3300002: pCylinder1
+    3300004: Grassy_Terrain
+    3300006: Palm_Tree
+    4300000: pCylinder1
+    4300002: pCube48
+    4300004: Palm_Tree
+    4300006: Grassy_Terrain
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

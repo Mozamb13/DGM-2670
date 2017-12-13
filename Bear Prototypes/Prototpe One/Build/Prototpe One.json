@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Prototpe One.data.unityweb",
+"asmCodeUrl": "Prototpe One.asm.code.unityweb",
+"asmMemoryUrl": "Prototpe One.asm.memory.unityweb",
+"asmFrameworkUrl": "Prototpe One.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

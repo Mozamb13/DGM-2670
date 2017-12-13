@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Prototype Temple.data.unityweb",
+"asmCodeUrl": "Prototype Temple.asm.code.unityweb",
+"asmMemoryUrl": "Prototype Temple.asm.memory.unityweb",
+"asmFrameworkUrl": "Prototype Temple.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

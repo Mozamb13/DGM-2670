@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Prototype 6 combined.unity
+    guid: 2beded9beeaf14e70bc951bdd6b3330e
+  - enabled: 0
+    path: Assets/Scenes/Jourenyhome.unity
+    guid: 892d20e0f9ad54ed5bdb700b573d8e67
+  - enabled: 1
+    path: Assets/Scenes/Animation Sprint.unity
+    guid: 546bbf6624f3d4455a86032c261cc947

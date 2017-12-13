@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 45b043937508848328d5d8e24e87d910
+timeCreated: 1509556347
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: curve1
+    100002: pCube10
+    100004: pCube10_pCube3
+    100006: pCube11
+    100008: pCube12
+    100010: pCube13
+    100012: pCube3
+    100014: pCube3 1
+    100016: pCube3 2
+    100018: pCube3 3
+    100020: pCube3 4
+    100022: pCube4
+    100024: pCube4 1
+    100026: pCube4 2
+    100028: pCube4 3
+    100030: pCube4 4
+    100032: pCube5
+    100034: pCube5 1
+    100036: pCube5 2
+    100038: pCube5 3
+    100040: pCube5 4
+    100042: pCube6
+    100044: pCube6 1
+    100046: pCube6 2
+    100048: pCube6 3
+    100050: pCube6 4
+    100052: pCube7
+    100054: pCube8
+    100056: pCube8 1
+    100058: pCube8 2
+    100060: pCube8 3
+    100062: pCube8 4
+    100064: pCube9
+    100066: pCube9 1
+    100068: pCube9 2
+    100070: pCube9 3
+    100072: pCube9 4
+    100074: pCylinder1
+    100076: //RootNode
+    100078: transform1
+    100080: transform10
+    100082: transform11
+    100084: transform12
+    100086: transform13
+    100088: transform14
+    100090: transform15
+    100092: transform16
+    100094: transform17
+    100096: transform18
+    100098: transform19
+    100100: transform2
+    100102: transform20
+    100104: transform21
+    100106: transform22
+    100108: transform23
+    100110: transform24
+    100112: transform25
+    100114: transform26
+    100116: transform27
+    100118: transform28
+    100120: transform29
+    100122: transform3
+    100124: transform30
+    100126: transform31
+    100128: transform32
+    100130: transform33
+    100132: transform34
+    100134: transform35
+    100136: transform4
+    100138: transform5
+    100140: transform6
+    100142: transform7
+    100144: transform8
+    100146: transform9
+    100148: Grassy_Terrain
+    100150: Palm
+    400000: curve1
+    400002: pCube10
+    400004: pCube10_pCube3
+    400006: pCube11
+    400008: pCube12
+    400010: pCube13
+    400012: pCube3
+    400014: pCube3 1
+    400016: pCube3 2
+    400018: pCube3 3
+    400020: pCube3 4
+    400022: pCube4
+    400024: pCube4 1
+    400026: pCube4 2
+    400028: pCube4 3
+    400030: pCube4 4
+    400032: pCube5
+    400034: pCube5 1
+    400036: pCube5 2
+    400038: pCube5 3
+    400040: pCube5 4
+    400042: pCube6
+    400044: pCube6 1
+    400046: pCube6 2
+    400048: pCube6 3
+    400050: pCube6 4
+    400052: pCube7
+    400054: pCube8
+    400056: pCube8 1
+    400058: pCube8 2
+    400060: pCube8 3
+    400062: pCube8 4
+    400064: pCube9
+    400066: pCube9 1
+    400068: pCube9 2
+    400070: pCube9 3
+    400072: pCube9 4
+    400074: pCylinder1
+    400076: //RootNode
+    400078: transform1
+    400080: transform10
+    400082: transform11
+    400084: transform12
+    400086: transform13
+    400088: transform14
+    400090: transform15
+    400092: transform16
+    400094: transform17
+    400096: transform18
+    400098: transform19
+    400100: transform2
+    400102: transform20
+    400104: transform21
+    400106: transform22
+    400108: transform23
+    400110: transform24
+    400112: transform25
+    400114: transform26
+    400116: transform27
+    400118: transform28
+    400120: transform29
+    400122: transform3
+    400124: transform30
+    400126: transform31
+    400128: transform32
+    400130: transform33
+    400132: transform34
+    400134: transform35
+    400136: transform4
+    400138: transform5
+    400140: transform6
+    400142: transform7
+    400144: transform8
+    400146: transform9
+    400148: Grassy_Terrain
+    400150: Palm
+    2300000: pCube10_pCube3
+    2300002: pCylinder1
+    2300004: Grassy_Terrain
+    2300006: Palm
+    3300000: pCube10_pCube3
+    3300002: pCylinder1
+    3300004: Grassy_Terrain
+    3300006: Palm
+    4300000: pCube10_pCube3
+    4300002: pCylinder1
+    4300004: Grassy_Terrain
+    4300006: Palm
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

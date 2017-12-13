@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Journey Home.data.unityweb",
+"asmCodeUrl": "Journey Home.asm.code.unityweb",
+"asmMemoryUrl": "Journey Home.asm.memory.unityweb",
+"asmFrameworkUrl": "Journey Home.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

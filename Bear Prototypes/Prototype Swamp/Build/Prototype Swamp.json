@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Prototype Swamp.data.unityweb",
+"asmCodeUrl": "Prototype Swamp.asm.code.unityweb",
+"asmMemoryUrl": "Prototype Swamp.asm.memory.unityweb",
+"asmFrameworkUrl": "Prototype Swamp.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

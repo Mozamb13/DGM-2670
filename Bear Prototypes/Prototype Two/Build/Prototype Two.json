@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Prototype Two.data.unityweb",
+"asmCodeUrl": "Prototype Two.asm.code.unityweb",
+"asmMemoryUrl": "Prototype Two.asm.memory.unityweb",
+"asmFrameworkUrl": "Prototype Two.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

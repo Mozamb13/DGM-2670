@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: e063049c7985a4ffbac53a5e3393a357
+timeCreated: 1511931114
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Belt
+    100002: Body
+    100004: group
+    100006: Hair
+    100008: imagePlane1
+    100010: imagePlane2
+    100012: L_Eye
+    100014: L_EyeBrow
+    100016: OB
+    100018: OB_Chest_ctrl
+    100020: OB_Chest_DEF
+    100022: OB_Geo
+    100024: OB_Head_ctrl
+    100026: OB_Head_DEF
+    100028: OB_HipTnslt_ctrl
+    100030: OB_L_Ankle_ctrl
+    100032: OB_L_Ankle_DEF
+    100034: OB_L_Collar_ctrl
+    100036: OB_L_Collar_DEF
+    100038: OB_L_Elbow_ctrl
+    100040: OB_L_Elbow_ctrl 1
+    100042: OB_L_Elbow_DEF
+    100044: OB_L_Fingers1_DEF
+    100046: OB_L_Fingers2_DEF
+    100048: OB_L_Fingers3_DEF
+    100050: OB_L_Hip_ctrl
+    100052: OB_L_Hip_DEF
+    100054: OB_L_Index1_DEF
+    100056: OB_L_Index2_DEF
+    100058: OB_L_Index3_DEF
+    100060: OB_L_Knee_ctrl
+    100062: OB_L_Knee_DEF
+    100064: OB_L_Shoulder_ctrl
+    100066: OB_L_Shoulder_ctrl 1
+    100068: OB_L_Shoulder_DEF
+    100070: OB_L_Thumb1_DEF
+    100072: OB_L_Thumb2_DEF
+    100074: OB_L_Thumb3_DEF
+    100076: OB_L_Toes_ctrl
+    100078: OB_L_Toes_DEF
+    100080: OB_L_Wrist_ctrl
+    100082: OB_L_Wrist_ctrl 1
+    100084: OB_L_Wrist_DEF
+    100086: OB_Neck_ctrl
+    100088: OB_Neck_DEF
+    100090: OB_R_Ankle_ctrl
+    100092: OB_R_Ankle_DEF
+    100094: OB_R_Collar_ctrl
+    100096: OB_R_Elbow_DEF
+    100098: OB_R_Fingers1_DEF
+    100100: OB_R_Fingers2_DEF
+    100102: OB_R_Fingers3_DEF
+    100104: OB_R_Hip_ctrl
+    100106: OB_R_Hip_DEF
+    100108: OB_R_Index1_DEF
+    100110: OB_R_Index2_DEF
+    100112: OB_R_Index3_DEF
+    100114: OB_R_Knee_ctrl
+    100116: OB_R_Knee_DEF
+    100118: OB_R_R_Collar_DEF
+    100120: OB_R_Shoulder_DEF
+    100122: OB_R_Thumb1_DEF
+    100124: OB_R_Thumb2_DEF
+    100126: OB_R_Thumb3_DEF
+    100128: OB_R_Toes_ctrl
+    100130: OB_R_Toes_DEF
+    100132: OB_R_Wrist_DEF
+    100134: OB_Root_ctrl
+    100136: OB_Root_DEF
+    100138: OB_Spine_ctrl
+    100140: OB_Spine_DEF
+    100142: //RootNode
+    100144: Pants
+    100146: pasted__Bear
+    100148: pasted__Bear_Controls
+    100150: pasted__Bear_Skeleton
+    100152: pasted__group1
+    100154: pasted__group2
+    100156: pasted__nurbsSquare1
+    100158: R_EyeBrow
+    100160: ShashO_fras
+    100162: Shirt
+    100164: Tree3:group
+    100166: Tree3:pasted__pCube2
+    100168: Tree3:Zbrush_Swamp_Tree:Group60456
+    400000: Belt
+    400002: Body
+    400004: group
+    400006: Hair
+    400008: imagePlane1
+    400010: imagePlane2
+    400012: L_Eye
+    400014: L_EyeBrow
+    400016: OB
+    400018: OB_Chest_ctrl
+    400020: OB_Chest_DEF
+    400022: OB_Geo
+    400024: OB_Head_ctrl
+    400026: OB_Head_DEF
+    400028: OB_HipTnslt_ctrl
+    400030: OB_L_Ankle_ctrl
+    400032: OB_L_Ankle_DEF
+    400034: OB_L_Collar_ctrl
+    400036: OB_L_Collar_DEF
+    400038: OB_L_Elbow_ctrl
+    400040: OB_L_Elbow_ctrl 1
+    400042: OB_L_Elbow_DEF
+    400044: OB_L_Fingers1_DEF
+    400046: OB_L_Fingers2_DEF
+    400048: OB_L_Fingers3_DEF
+    400050: OB_L_Hip_ctrl
+    400052: OB_L_Hip_DEF
+    400054: OB_L_Index1_DEF
+    400056: OB_L_Index2_DEF
+    400058: OB_L_Index3_DEF
+    400060: OB_L_Knee_ctrl
+    400062: OB_L_Knee_DEF
+    400064: OB_L_Shoulder_ctrl
+    400066: OB_L_Shoulder_ctrl 1
+    400068: OB_L_Shoulder_DEF
+    400070: OB_L_Thumb1_DEF
+    400072: OB_L_Thumb2_DEF
+    400074: OB_L_Thumb3_DEF
+    400076: OB_L_Toes_ctrl
+    400078: OB_L_Toes_DEF
+    400080: OB_L_Wrist_ctrl
+    400082: OB_L_Wrist_ctrl 1
+    400084: OB_L_Wrist_DEF
+    400086: OB_Neck_ctrl
+    400088: OB_Neck_DEF
+    400090: OB_R_Ankle_ctrl
+    400092: OB_R_Ankle_DEF
+    400094: OB_R_Collar_ctrl
+    400096: OB_R_Elbow_DEF
+    400098: OB_R_Fingers1_DEF
+    400100: OB_R_Fingers2_DEF
+    400102: OB_R_Fingers3_DEF
+    400104: OB_R_Hip_ctrl
+    400106: OB_R_Hip_DEF
+    400108: OB_R_Index1_DEF
+    400110: OB_R_Index2_DEF
+    400112: OB_R_Index3_DEF
+    400114: OB_R_Knee_ctrl
+    400116: OB_R_Knee_DEF
+    400118: OB_R_R_Collar_DEF
+    400120: OB_R_Shoulder_DEF
+    400122: OB_R_Thumb1_DEF
+    400124: OB_R_Thumb2_DEF
+    400126: OB_R_Thumb3_DEF
+    400128: OB_R_Toes_ctrl
+    400130: OB_R_Toes_DEF
+    400132: OB_R_Wrist_DEF
+    400134: OB_Root_ctrl
+    400136: OB_Root_DEF
+    400138: OB_Spine_ctrl
+    400140: OB_Spine_DEF
+    400142: //RootNode
+    400144: Pants
+    400146: pasted__Bear
+    400148: pasted__Bear_Controls
+    400150: pasted__Bear_Skeleton
+    400152: pasted__group1
+    400154: pasted__group2
+    400156: pasted__nurbsSquare1
+    400158: R_EyeBrow
+    400160: ShashO_fras
+    400162: Shirt
+    400164: Tree3:group
+    400166: Tree3:pasted__pCube2
+    400168: Tree3:Zbrush_Swamp_Tree:Group60456
+    2300000: Tree3:pasted__pCube2
+    2300002: Tree3:Zbrush_Swamp_Tree:Group60456
+    3300000: Tree3:pasted__pCube2
+    3300002: Tree3:Zbrush_Swamp_Tree:Group60456
+    4300000: Hair
+    4300002: L_Eye
+    4300004: R_EyeBrow
+    4300006: L_EyeBrow
+    4300008: Belt
+    4300010: Shirt
+    4300012: ShashO_fras
+    4300014: Tree3:Zbrush_Swamp_Tree:Group60456
+    4300016: Tree3:pasted__pCube2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Belt
+    13700002: Hair
+    13700004: L_Eye
+    13700006: L_EyeBrow
+    13700008: R_EyeBrow
+    13700010: ShashO_fras
+    13700012: Shirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
